@@ -1,0 +1,3 @@
+REM First run Hide-Msg-Setup in powershell followed by this, after changin your image location.
+
+Hide-Msg -Path "C:\Users\user\Desktop\secret.jpg" -Message "this is your secret message"
